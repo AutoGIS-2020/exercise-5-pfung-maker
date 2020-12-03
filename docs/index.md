@@ -2,13 +2,17 @@
 
 To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
 
- `https://autogis-2019.github.io/exercise-5-YourUserName/filename.html`
+ `https://autogis-2020.github.io/exercise-5-YourUserName/filename.html`
 
 Here is an example how to do it in MarkDown for user VuokkoH:
 
 ```
-[Link to test map](https://autogis-2019.github.io/exercise-5-VuokkoH/test_map.html)
+[Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
 ```
+
+My static map is the difference of travel times in peak hours and normal hours.
+
+My interactive map is the counts of traffic accicents on the overlay of population percentage of residents aged 15-65 in different municipalicites.
 
 ## My maps
 
