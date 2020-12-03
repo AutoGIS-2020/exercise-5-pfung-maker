@@ -14,7 +14,7 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
- - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
+ - [My static map](https://autogis-2020.github.io/exercise-5-pfung-maker/Problem1_static_map.png)
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-pfung-maker/Problem2_base_map.html)
+ - [Link to test map](https://autogis-2020.github.io/exercise-5-pfung-maker/test_map.html)
 
