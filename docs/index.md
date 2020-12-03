@@ -10,6 +10,9 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 [Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
 ```
 
+My static map is the difference of travel times in peak hours and normal hours.
+My interactive map is the counts of traffic accicents on the overlay of population percentage of residents aged 15-65 in different municipalicites.
+
 ## My maps
 
 Edit the text below and add links to the maps that you have created:
