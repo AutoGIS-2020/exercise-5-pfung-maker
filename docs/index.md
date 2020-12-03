@@ -11,6 +11,7 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 ```
 
 My static map is the difference of travel times in peak hours and normal hours.
+
 My interactive map is the counts of traffic accicents on the overlay of population percentage of residents aged 15-65 in different municipalicites.
 
 ## My maps
